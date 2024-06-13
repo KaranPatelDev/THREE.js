@@ -32,8 +32,7 @@ Distributed under the MIT License. See LICENSE for more information.
 E-Mail : mpkaranpatel001018@gmail.com<br>
 LinkedIn : https://www.linkedin.com/in/karan-patel-16700a215/
 
-<h3>Deploy Link</h3>
-https://3d-earth-model.netlify.app/
+<h3>Deploy Link</h3> : https://3d-earth-model.netlify.app/
 
 
 Earth texture maps: [PlanetPixelEmporium](https://planetpixelemporium.com/earth.html)
