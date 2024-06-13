@@ -27,10 +27,10 @@ To get a local copy up and running, follow these steps:
 Distributed under the MIT License. See LICENSE for more information.
 
 📫 Contact
-E-Mail : mpkaranpatel001018@gmail.com
+E-Mail : mpkaranpatel001018@gmail.com<br>
 LinkedIn : https://www.linkedin.com/in/karan-patel-16700a215/
 
-##Deploy Link
+<h3>Deploy Link</h3>
 https://3d-earth-model.netlify.app/
 
 Earth texture maps: [PlanetPixelEmporium](https://planetpixelemporium.com/earth.html)
