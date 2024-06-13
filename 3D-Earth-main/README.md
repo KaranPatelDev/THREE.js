@@ -23,14 +23,17 @@ To get a local copy up and running, follow these steps:
 1. Clone the repo
 2. Open index.html in your browser to see the 3D model in action!
 
-📝 License
+## 📝 License
+
 Distributed under the MIT License. See LICENSE for more information.
 
-📫 Contact
+## 📫 Contact
+
 E-Mail : mpkaranpatel001018@gmail.com<br>
 LinkedIn : https://www.linkedin.com/in/karan-patel-16700a215/
 
 <h3>Deploy Link</h3>
 https://3d-earth-model.netlify.app/
+
 
 Earth texture maps: [PlanetPixelEmporium](https://planetpixelemporium.com/earth.html)
